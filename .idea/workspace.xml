@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d1fc499-fb39-4ebe-9edb-f5c8438fca35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style_light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SlaJeSlag02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/TheRideLight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/theridelight02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Signature.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Signature.svg" afterDir="false" />
-    </list>
+    <list default="true" id="7d1fc499-fb39-4ebe-9edb-f5c8438fca35" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +29,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595588931848</updated>
-      <workItem from="1595588933319" duration="1385000" />
+      <workItem from="1595588933319" duration="1623000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1595590527606</created>
@@ -84,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595591071546</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Committing files from original site">
+      <created>1595591291300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595591291300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Committing files from original site">
+      <created>1595591344180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595591344180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,20 +80,25 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Committing files from original site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing files from original site" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="7" key="CommitChangelistDialog2" timestamp="1595591070634">
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1595591343301">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="7" key="CommitChangelistDialog2/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595591070634" />
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595591343301" />
     <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1595590730612">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595590730612" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595590670504">
+    <state x="301" y="75" key="SettingsEditor" timestamp="1595591424550">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595590670504" />
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595591424550" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595591357106">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1920.-79.1920.1040@0.0.1600.860" timestamp="1595591357106" />
   </component>
 </project>
